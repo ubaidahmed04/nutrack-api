@@ -1,5 +1,5 @@
 {
-  "name": "nubitapi",
+  "name": "nutrack",
   "version": "1.0.0",
   "description": "Nubit APIS",
   "main": "server.js",
